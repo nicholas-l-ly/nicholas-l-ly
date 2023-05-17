@@ -2,7 +2,7 @@
 
 I'm a fullstack engineer based in Philadelphia, PA. I **love** to build applications and explore new technologies. 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nicholasly/)
+Connect with me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nicholasly/)
 
 
 
